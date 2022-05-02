@@ -1,5 +1,5 @@
 # ESP-Now_TTGO_T-Display_T-Watch2020
-Adapting ESP-Now to TTGO T-Watch 2020 an T-Display.
+Adapting ESP-Now to TTGO T-Watch 2020 and T-Display.
 
 Here I am mashing up the example sketches Master and Slave from ESP-Now in Arduino IDE. Yes this is 2022 so I went to the trouble of renaming these to Sender and Client to avoid any offense. The beauty of ESP-Now is the devices don't need a WiFi router. The ESP-Now devices just find each other and pair up.
 
