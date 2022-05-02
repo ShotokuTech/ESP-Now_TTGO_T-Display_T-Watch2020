@@ -9,9 +9,9 @@ Then I do the same mashup for the T-Display. These seem to pair up right away an
 
 Some items of note.
 
-The Sender and Client sketches require the same channel number on both sides to make connection. I have set these to one.
-In Arduino IDE, after selecting TTGO T-Watch as the Board, there is a Board Revision option lower down in the in the Arduino IDE menu to select T-Watch Base, 2020 V1, or 2020 V2.
-Make sure when setting TFT_eSPI text color, include a background color so new text will overright whatever is already on the display.
+  * The Sender and Client sketches require the same channel number on both sides to make connection. I have set these to one.
+   * In Arduino IDE, after selecting TTGO T-Watch as the Board, there is a Board Revision option lower down in the in the Arduino IDE menu to select T-Watch Base, 2020 V1, or 2020 V2.
+  * Make sure when setting TFT_eSPI text color, include a background color so new text will overright whatever is already on the display.
 
 ESP-Now on TTGO T-Display and T-Watch 2020
 ![]()
